@@ -1,4 +1,4 @@
-""" Aasf Bot """
+""" Harsha bot """
 
 from pyrogram import (
     Client,
@@ -23,9 +23,9 @@ Thx For Using Me </b><a href="{PM_IMG}">🙏</a>
 
 <b>You Can Contact My</b> <a href="tg://user?id={OWNER_ID}">Owner</a> <b>By Me</b>
 
-<a href="https://github.com/AASFCYBERKING/NoPmBot">My Repo Was Public Click Here 🌹</a>
+<a href="t.me/sctbots ">My Repo Was Public Click Here 🌹</a>
 
-<b>The Legend Who Created Me Is </b>@Aasfcyberking 🖤
+<b>The Legend Who Created Me Is </b>@harshahero 🖤
 """
 
 class Bot(Client):
