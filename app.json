@@ -1,5 +1,5 @@
 {
-  "name": "No PM Bot",
+  "name": " Harsha No PM Bot",
   "description": "Modular  Telegram Bot powered by @PyroGram Upgraded By @Aasfcyberking",
   "logo": "https://telegra.ph/file/4062708e65d103dd712d7.jpg",
   "keywords": [
@@ -11,8 +11,8 @@
     "channel",
     "pyrogram"
   ],
-  "repository": "https://github.com/AASFCYBERKING/NoPMBot",
-  "website": "https://telegram.dog/AASFCYBERKING",
+  "repository": "https://github.com/Devilharsha/NoPmBot",
+  "website": "https://telegram.dog/harshahero",
   "env": {
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
