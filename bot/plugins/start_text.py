@@ -23,11 +23,11 @@ START_TEXT = f"""
 <b>Hey Master! ,</b>
 <b>I Am Working Properly With Awesome Speed</b>
 <b>➖➖➖➖➖➖➖➖➖➖➖➖➖</b>
-<code>My Repo Is Public</code> <a href="https://github.com/AASFCYBERKING/NoPmBot">Here</a>
+<code>check my bot</code> <a href="t.me/super_Doraemon_Probot">Here</a>
 """
 
 button = InlineKeyboard(row_width=1)
-button.add(InlineKeyboardButton(text="Repo", url="t.me/sctbots"), InlineKeyboardButton(text="Owner", url=f"tg://user?id={OWNER_ID}"))
+button.add(InlineKeyboardButton(text="SENKUBOTS", url="t.me/SENKUBOTS"), InlineKeyboardButton(text="Owner", url=f"t.me/harshahero "))
 
 @Bot.on_message(
     filters.command(START_COMMAND, COMMM_AND_PRE_FIX) &
