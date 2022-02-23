@@ -27,7 +27,7 @@ START_TEXT = f"""
 """
 
 button = InlineKeyboard(row_width=1)
-button.add(InlineKeyboardButton(text="SENKUBOTS", url="t.me/SENKUBOTS"), InlineKeyboardButton(text="Owner", url=f"t.me/harshahero "))
+button.add(InlineKeyboardButton(text="SENKUBOTS", url="t.me/SENKUBOTS"), InlineKeyboardButton(text="Owner", url=f"t.me/harshahero"))
 
 @Bot.on_message(
     filters.command(START_COMMAND, COMMM_AND_PRE_FIX) &
